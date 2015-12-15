@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp1", "NodejsWebApp1.njsproj", "{F89B82FA-C6E4-4090-8486-B7E1CE8B5589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89B82FA-C6E4-4090-8486-B7E1CE8B5589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89B82FA-C6E4-4090-8486-B7E1CE8B5589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89B82FA-C6E4-4090-8486-B7E1CE8B5589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89B82FA-C6E4-4090-8486-B7E1CE8B5589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
